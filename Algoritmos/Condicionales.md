@@ -61,3 +61,12 @@ Su estructura consta de tres partes: **inicialización**, **condición**, e **in
 for (inicialización; condición; incremento) {
     // código a repetir
 }
+
+while (condición) {
+    // código a repetir
+}
+
+do {
+    // código a repetir
+} while (condición);
+```
