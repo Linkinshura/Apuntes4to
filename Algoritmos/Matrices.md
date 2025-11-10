@@ -5,7 +5,7 @@ Se utiliza para representar información en forma de cuadrícula, como notas de 
 
 ---
 
-## 🧩 Concepto Básico
+##  Concepto Básico
 
 Una matriz 2D se puede ver como un **array de arrays**:
 
