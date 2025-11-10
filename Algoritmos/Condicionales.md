@@ -5,11 +5,11 @@ Estas estructuras incluyen **condicionales**, que toman decisiones, y **bucles (
 
 ---
 
-## ⚙️ Condicionales
+##  Condicionales
 
 Las **estructuras condicionales** se utilizan para ejecutar un bloque de código **solo si** se cumple una condición.
 
-### 🧩 `if`, `else if`, `else`
+###  `if`, `else if`, `else`
 
 Evalúa una o varias condiciones lógicas.
 
