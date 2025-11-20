@@ -11,11 +11,13 @@ Este HTML se ve en el DOM:
 </body>
 ```
 
+```bash
 Document
  └── html
       └── body
            ├── h1 (id="titulo")
            └── p (class="texto")
+```
 
 ## Métodos principales del DOM
 
